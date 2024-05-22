@@ -1,6 +1,6 @@
 ![MasterHead](https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105)
 <h1 align="center">Hi 👋, I'm Bunleap</h1>
-<h3 align="center">I am a student in Cambodia studying technology</h3>
+<h3 align="center">I am a student in Cambodia studying technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bunleapbeun&label=Profile%20views&color=0e75b6&style=flat" alt="bunleapbeun" /> </p>
 
