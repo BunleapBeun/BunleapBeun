@@ -20,4 +20,4 @@
 <a href="https://fb.com/bunleap.beun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bunleap.beun" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bunleapbeun&" alt="bunleapbeun" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bunleapbeun&show_icons=true&locale=en" alt="bunleapbeun" /></p>
