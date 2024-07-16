@@ -7,15 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bunleapbeun&label=Profile%20views&color=0e75b6&style=flat" alt="bunleapbeun" /> </p>
 
-- 🔭 I’m currently working on **JEKCOD**
-
 - 🌱 I’m currently learning **Web Development, Python, Computer Vision...**
 
-- 💬 Ask me about **C, CPP, JAVA, Python, Web Development**
-
 - 📫 How to reach me **bunleap997@gmail.com**
-
-- ⚡ Fun fact **I am friendly.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
